@@ -1,0 +1,538 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.407747,51.241281,0 ]
+    },
+    "properties": {
+    "id":1,
+    "port_from":"ANTWERP",
+    "country_from":"BELGIUM",
+    "shipments":408
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.301783,-23.965776,0 ]
+    },
+    "properties": {
+    "id":2,
+    "port_from":"SANTOS",
+    "country_from":"BRAZIL",
+    "shipments":461
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.709218,-26.87659,0 ]
+    },
+    "properties": {
+    "id":3,
+    "port_from":"ITAJAI",
+    "country_from":"BRAZIL",
+    "shipments":222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.566038,44.64158,0 ]
+    },
+    "properties": {
+    "id":4,
+    "port_from":"HALIFAX",
+    "country_from":"CANADA",
+    "shipments":380
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.532599,45.543231,0 ]
+    },
+    "properties": {
+    "id":5,
+    "port_from":"MONTREAL",
+    "country_from":"CANADA",
+    "shipments":369
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.842721,29.933835,0 ]
+    },
+    "properties": {
+    "id":6,
+    "port_from":"NINGBO",
+    "country_from":"CHINA",
+    "shipments":1672
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.201973,36.014262,0 ]
+    },
+    "properties": {
+    "id":7,
+    "port_from":"QINGDAO",
+    "country_from":"CHINA",
+    "shipments":953
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.671068,31.326099,0 ]
+    },
+    "properties": {
+    "id":8,
+    "port_from":"SHANGHAI",
+    "country_from":"CHINA",
+    "shipments":862
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.167003,22.301334,0 ]
+    },
+    "properties": {
+    "id":9,
+    "port_from":"HONG KONG",
+    "country_from":"CHINA",
+    "shipments":357
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.060498,24.410825,0 ]
+    },
+    "properties": {
+    "id":10,
+    "port_from":"XIAMEN",
+    "country_from":"CHINA",
+    "shipments":327
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.655994,38.927625,0 ]
+    },
+    "properties": {
+    "id":11,
+    "port_from":"DALIAN",
+    "country_from":"CHINA",
+    "shipments":277
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.743174,38.983432,0 ]
+    },
+    "properties": {
+    "id":12,
+    "port_from":"XINGANG",
+    "country_from":"CHINA",
+    "shipments":233
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.889968,22.466541,0 ]
+    },
+    "properties": {
+    "id":13,
+    "port_from":"CHIWAN",
+    "country_from":"CHINA",
+    "shipments":192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.751118,38.984828,0 ]
+    },
+    "properties": {
+    "id":14,
+    "port_from":"TIANJIN",
+    "country_from":"CHINA",
+    "shipments":103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.913433,22.477121,0 ]
+    },
+    "properties": {
+    "id":15,
+    "port_from":"SHEKOU",
+    "country_from":"CHINA",
+    "shipments":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.522056,10.409837,0 ]
+    },
+    "properties": {
+    "id":16,
+    "port_from":"CARTAGENA",
+    "country_from":"COLOMBIA",
+    "shipments":238
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.067645,3.893331,0 ]
+    },
+    "properties": {
+    "id":17,
+    "port_from":"BUENAVENTURA",
+    "country_from":"COLOMBIA",
+    "shipments":103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.147664,49.475286,0 ]
+    },
+    "properties": {
+    "id":18,
+    "port_from":"LE HAVRE",
+    "country_from":"FRANCE",
+    "shipments":623
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.616631,15.695922,0 ]
+    },
+    "properties": {
+    "id":19,
+    "port_from":"SANTO THOMAS",
+    "country_from":"GUATEMALA",
+    "shipments":159
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.759185,13.93079,0 ]
+    },
+    "properties": {
+    "id":20,
+    "port_from":"GUATEMALA",
+    "country_from":"GUATEMALA",
+    "shipments":105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.957312,15.84496,0 ]
+    },
+    "properties": {
+    "id":21,
+    "port_from":"CORTES",
+    "country_from":"HONDURAS",
+    "shipments":241
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.831876,18.927962,0 ]
+    },
+    "properties": {
+    "id":22,
+    "port_from":"JAWAHARLAL NEHR",
+    "country_from":"INDIA",
+    "shipments":304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.881752,-6.091176,0 ]
+    },
+    "properties": {
+    "id":23,
+    "port_from":"JAKARTA",
+    "country_from":"INDONESIA",
+    "shipments":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.840107,17.982791,0 ]
+    },
+    "properties": {
+    "id":24,
+    "port_from":"KINGSTON",
+    "country_from":"JAMAICA",
+    "shipments":206
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.290129,19.070112,0 ]
+    },
+    "properties": {
+    "id":25,
+    "port_from":"MANZANILLO",
+    "country_from":"MEXICO",
+    "shipments":379
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.119325,19.205183,0 ]
+    },
+    "properties": {
+    "id":26,
+    "port_from":"VERACRUZ",
+    "country_from":"MEXICO",
+    "shipments":291
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.884588,22.482952,0 ]
+    },
+    "properties": {
+    "id":27,
+    "port_from":"ALTAMIRA",
+    "country_from":"MEXICO",
+    "shipments":108
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.484733,51.905291,0 ]
+    },
+    "properties": {
+    "id":28,
+    "port_from":"ROTTERDAM",
+    "country_from":"NETHERLANDS",
+    "shipments":403
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.150957,-12.055839,0 ]
+    },
+    "properties": {
+    "id":29,
+    "port_from":"CALLAO",
+    "country_from":"PERU",
+    "shipments":221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.677657,54.400389,0 ]
+    },
+    "properties": {
+    "id":30,
+    "port_from":"GDANSK",
+    "country_from":"POLAND",
+    "shipments":161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.042025,35.104342,0 ]
+    },
+    "properties": {
+    "id":31,
+    "port_from":"BUSAN",
+    "country_from":"SOUTH KOREA",
+    "shipments":177
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.628525,37.467651,0 ]
+    },
+    "properties": {
+    "id":32,
+    "port_from":"SEOUL",
+    "country_from":"SOUTH KOREA",
+    "shipments":129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.317098,39.449045,0 ]
+    },
+    "properties": {
+    "id":33,
+    "port_from":"VALENCIA",
+    "country_from":"SPAIN",
+    "shipments":214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.157188,38.445857,0 ]
+    },
+    "properties": {
+    "id":34,
+    "port_from":"IZMIR",
+    "country_from":"TURKEY",
+    "shipments":140
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.010293,41.008811,0 ]
+    },
+    "properties": {
+    "id":35,
+    "port_from":"ISTANBUL",
+    "country_from":"TURKEY",
+    "shipments":105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.171867,25.778098,0 ]
+    },
+    "properties": {
+    "id":36,
+    "port_from":"MIAMI",
+    "country_from":"USA",
+    "shipments":4938
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.124836,26.094944,0 ]
+    },
+    "properties": {
+    "id":37,
+    "port_from":"PORTEVERGLADE",
+    "country_from":"USA",
+    "shipments":1579
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.272278,29.73023,0 ]
+    },
+    "properties": {
+    "id":38,
+    "port_from":"HOUSTON TEXAS",
+    "country_from":"USA",
+    "shipments":553
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.068335,40.626218,0 ]
+    },
+    "properties": {
+    "id":39,
+    "port_from":"NEW YORK",
+    "country_from":"USA",
+    "shipments":501
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.145837,32.129808,0 ]
+    },
+    "properties": {
+    "id":40,
+    "port_from":"SAVANNAH",
+    "country_from":"USA",
+    "shipments":235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.326721,36.857493,0 ]
+    },
+    "properties": {
+    "id":41,
+    "port_from":"NORFOLK",
+    "country_from":"USA",
+    "shipments":197
+    }
+  }
+]
+}
